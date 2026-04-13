@@ -1,4 +1,4 @@
-package com.learnings.designPattern;
+package learnings.designPattern;
 
 /**
  * In this method, object is created only if it is needed. This may prevent resource wastage.

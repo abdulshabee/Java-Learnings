@@ -1,4 +1,4 @@
-package com.learnings.designPattern;
+package learnings.designPattern;
 
 
 /**

@@ -1,4 +1,4 @@
-package com.learnings.designPattern;
+package learnings.designPattern;
 
 /**
  * Using static block: This is also a sub part of Eager initialization. The only difference is object is created in a static block so that we can have access on its creation, like exception handling. In this way also, object is created at the time of class loading.

@@ -1,4 +1,4 @@
-package com.learnings.designPattern;
+package learnings.designPattern;
 
 /**
  * In this mechanism, we overcome the overhead problem of synchronized code.
